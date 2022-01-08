@@ -19,6 +19,7 @@ First of all, go to Excel 'preference' and click 'Custom lists'. You will see th
 ## Results: 
 Answer the following questions in complete and coherent sentences.
 - What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+
 The first one is the months of May, jun and july are mostly successful in theater outcomes by launch date. It clearly shows that launch dates are close to summer, it seems mostly successful compared to fall and winter seasons. Secondly, according to the chart, December seems to overlap with success and failure. December is the lowest number of successes in theater outcomes by launch date. Half of them are successful and the other half are failed in a grand total, which means December is not a good lunch date for new projects.
 ![Thewater Outcomes by Lunch data](https://github.com/msjj622/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
