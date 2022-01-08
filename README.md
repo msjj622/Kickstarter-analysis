@@ -4,7 +4,7 @@ The purpose of this analysis is to know what months Theater got mostly successfu
 
 ## Analysis and Challenges: 
 **Overview of Analysis**
-Creating parent category and years in an excel shown as an image, [Kickstarter_Challenge Screenshot](https://github.com/msjj622/kickstarter-analysis/blob/main/Kickstarter_Screenshot_1.png). and filering 'Theater' in parent category and years in a pivot table, I could get data analysis about which months got successful as shown this image. [Theater_Outcomes_vs_Launch](https://github.com/msjj622/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png). Now I know May, Jun and July are mostly successful months of years.
+Creating parent category and years in an excel shown as an image, [Kickstarter_Challenge Screenshot](https://github.com/msjj622/kickstarter-analysis/blob/main/Kickstarter_Screenshot_1.png). and filering 'Theater' in parent category and years in a pivot table, I could get data analysis about which months got successful as shown this image. ![Theater_Outcomes_vs_Launch](https://github.com/msjj622/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) Now I know May, Jun and July are mostly successful months of years.
 
 Second, based on the chart [Outcomes_vs_Goals](https://github.com/msjj622/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png). from less than 1000 to 4999 in the dollar-amount ranges are mostly successful in a play sub category. Also from 35000 to 44999 are second successful range as well. It clearly shows that play in May, jun and July are mostly successful launch date with the amoun of fundrizing goal of less than 1000 to 4999. Louise can plan future funding based on these analysis to be successful.
 
