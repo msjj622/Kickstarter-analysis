@@ -23,10 +23,13 @@ The first one is the months of May, jun and july are mostly successful in theate
 ![Thewater Outcomes by Lunch data](https://github.com/msjj622/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
+
 Based on the chart, less than 1000 to 1000 to 4999 in the doller-amount range are mostly successful. People apt to fund the goal the first two doller-amount range in a play category.
 
 - What are some limitations of this dataset?
+
 First of all, I only know 'play' sub category percentage of successful in the chart of outcomes based on goals. Also, I don't know what months of launch date of the successful projects in the chart of outcomes based on goals. I also think how to know if the successful percentage would be included with mostly successful months of launch date.
 
 - What are some other possible tables and/or graphs that we could create?
+
 First of all, we could create 'month' column in excel and create a graph of Theatre outcomes by Launch date based on months and 'play' subcategory, then we know more clearly what months of 'play' got mostly successful instead we used 'theater' in category. I would try to consistanly filter the same category or subcategory to create charts to make more clear data since we have category and subcategory. 
